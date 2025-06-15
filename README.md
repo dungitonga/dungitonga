@@ -1,7 +1,5 @@
 ## About me
 
-- I’m currently working on a client website for their business.
-- I’m currently learning data structure and algorithms.
 - I’m looking to collaborate with other python developers in cyber security space.
 - I’m looking for help with clients who require website developers.
 - Ask me about web development and python.
